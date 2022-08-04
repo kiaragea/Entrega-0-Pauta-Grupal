@@ -19,3 +19,9 @@ div{
 #k{
     background-color: mediumslateblue;
 }
+
+h1 {
+   text-align: center; 
+   color: red;
+   background-color: khaki;
+}
