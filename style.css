@@ -1,0 +1,21 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 100px;
+}
+div{
+    color: white;
+    
+}
+#s{
+    background-color: skyblue;
+}
+#m{
+    background-color: rgb(205, 233, 103);
+}
+#e{
+    background-color: lightpink;
+}
+#k{
+    background-color: mediumslateblue;
+}
