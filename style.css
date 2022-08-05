@@ -19,3 +19,10 @@ div{
 #k{
     background-color: mediumslateblue;
 }
+
+.img {
+    padding: 50px 0;
+    width: 600px;
+    margin: 0 auto;
+    
+}
